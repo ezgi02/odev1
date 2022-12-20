@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>Hakkımda bilgiler</title>
+        
+    </head>
+    <body>
+        
+        <h1><span style="color: rgb(0, 204, 255);">Ezgi Adıgüzel</span></h1>
+        <h2><span style="color: rgb(42, 165, 124);">Hakkımda bilgiler</span></h2>
+        <p>
+            <strong>
+                Web tasarım alanında kendimi geliştiriyorum.Patika sayesinde harika bilgiler ogrendim
+            </strong>
+            
+        </p>
+        <h3><span style="color: rgb(42, 165, 124);">İLGİ ALANLARIM</span></h3>
+        <ol>
+            <li><strong>DİZİ</strong></li>
+            <ul>
+
+                <li>MY NAME</li>
+                <li>DARK</li>
+                <li>ALL OF US ARE DEAD</li>
+            </ul>
+            <li><strong>FİLM</strong></li>
+            <ul>
+                <li>HOBBİT</li>
+                <li>YÜZÜKLERİN EFENDİSİ</li>
+                <li>PARAZİT</li>
+                <li>KARAYIP KORSSANLAR</li>
+                <li>HARRY POTTER</li>
+            </ul>
+            <li><strong>KİTAP</strong></li>
+            <ul>
+                <li>İSTANBUL HATIRASI</li>
+                <li>GÖR BENİ</li>
+                <li>MOMO</li>
+                <li>MARTİN EDEN</li>
+            </ul>
+
+        </ol>
+        <h3>HOBBİT</h3>
+        <img src="https://i0.wp.com/duslerdengercege.com/wp-content/uploads/2012/12/Hobbit.jpg?ssl=1">
+        <a href="https://www.imdb.com/title/tt0903624/">
+            imbd sayfasına gidilecek
+
+        </a>
+        <p>
+            İngilizceden çevrilmiştir-Hobbit, Peter Jackson tarafından yönetilen üç epik yüksek fantastik macera filminden oluşan bir seridir
+
+        </p>
+        <p>
+            Tolkien'ın âdeta bir külliyat oluşturduğu Orta Dünya evreninde, evcimen bir hobbit olan Bilbo Baggins'in
+
+        </p>
+        <p>
+            Smaug adındaki ejderhanın Erebor'da sahiplendiği hazineden bir pay alma çabasıyla çıktığı yolculuğa ve sonrasında gelişen olaylara odaklanır.
+            
+        </p>
+            
+           
+
+        
+    </body>    
+</html>
+        
+
+    
